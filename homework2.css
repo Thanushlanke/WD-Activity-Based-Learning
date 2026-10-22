@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    color: #333333;
+}
+
+.box {
+    width: 250px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+a {
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+}
